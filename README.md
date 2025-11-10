@@ -19,8 +19,8 @@ Tenho paixão por tecnologia, especialmente jogos (games) e Inteligência Artifi
 
 ### 🔹 Projeto “Mundo Verde”  
 URL: [mundoverde.cloud](https://mundoverde.cloud/)  
-Projeto colaborativo feito com colegas da faculdade, com foco em… *(descreva brevemente o que fazia — ex: portal de meio ambiente, e-commerce verde, etc.)*  
-→ Mesmo que não esteja no GitHub ainda, destaque sua participação, suas responsabilidades e tecnologias usadas.
+
+Projeto colaborativo desenvolvido com colegas da faculdade, com foco em conscientizar e instruir a população sobre práticas corretas de descarte de resíduos. O site apresenta orientações sobre onde descartar diferentes tipos de lixo, especialmente lixo eletrônico, além de gráficos e informações sobre os impactos ambientais causados pelo descarte inadequado.
 
 
 ## 🎯 Objetivo Profissional
